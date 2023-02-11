@@ -11,5 +11,5 @@ class Class_1():
         self.data = input_data
 
     def viw_data(self):
-        return f"Class에서 입력받은 data의 값음{self.data}이다"
+        return f"Class에서 입력받은 data의 값은{self.data}이다"
         
